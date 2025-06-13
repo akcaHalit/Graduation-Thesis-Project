@@ -1,0 +1,10 @@
+path: E:/halit/kasa_data
+
+train: E:/halit/kasa_data/train
+val: E:/halit/kasa_data/val
+test: E:/halit/kasa_data/test
+
+nc: 1
+names: ['fish_box_custom']
+
+

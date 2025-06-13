@@ -1,0 +1,12 @@
+path: E:/halit/new_data
+
+train: E:/halit/new_data/train
+val: E:/halit/new_data/val
+test: E:/halit/new_data/test
+
+nc: 1
+names: ['S_aurata']
+
+
+
+‚
